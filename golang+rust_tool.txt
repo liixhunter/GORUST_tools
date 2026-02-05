@@ -34,11 +34,11 @@ subzy
 waybackurls
 wordlistgen
 naabu
-
+dnsx
 
 Rust tool :
 
-
+rustscan
 batcat
 navi
 tspin
