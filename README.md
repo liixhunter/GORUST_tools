@@ -17,6 +17,7 @@
 - getJS  
 - gf  
 - github-subdomains  
+- goblob  
 - gospider  
 - Gxss  
 - httpx  
@@ -26,6 +27,7 @@
 - kxss  
 - nomore403  
 - nuclei  
+- ossutil  
 - puredns  
 - qsreplace  
 - s3scanner  
@@ -35,6 +37,7 @@
 - subfinder  
 - subjack  
 - subzy  
+- unfurl  
 - waybackurls  
 - wordlistgen  
 - naabu  
