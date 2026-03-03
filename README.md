@@ -1,46 +1,52 @@
-403jump
-alterx
-anew
-assetfinder
-bxss
-cariddi
-chaos
-crt.sh
-dalfox
-dirlstr
-freq
-gau
-getJS
-gf
-github-subdomains
-gospider
-Gxss
-httpx
-interactsh-client
-jsleak
-katana
-kxss
-nomore403
-nuclei
-puredns
-qsreplace
-s3scanner
-shortscan
-shosubgo
-sns
-subfinder
-subjack
-subzy
-waybackurls
-wordlistgen
-naabu
-dnsx
+# Tools List
 
-Rust tool :
+## General Tools
 
-rustscan
-batcat
-navi
-tspin
-lla
-havn
+- 403jump  
+- alterx  
+- anew  
+- assetfinder  
+- bxss  
+- cariddi  
+- chaos  
+- crt.sh  
+- dalfox  
+- dirlstr  
+- freq  
+- gau  
+- getJS  
+- gf  
+- github-subdomains  
+- gospider  
+- Gxss  
+- httpx  
+- interactsh-client  
+- jsleak  
+- katana  
+- kxss  
+- nomore403  
+- nuclei  
+- puredns  
+- qsreplace  
+- s3scanner  
+- shortscan  
+- shosubgo  
+- sns  
+- subfinder  
+- subjack  
+- subzy  
+- waybackurls  
+- wordlistgen  
+- naabu  
+- dnsx  
+
+---
+
+## 🦀 Rust Tools
+
+- rustscan  
+- batcat  
+- navi  
+- tspin  
+- lla  
+- havn  
