@@ -1,46 +1,51 @@
-403jump
-alterx
-anew
-assetfinder
-bxss
-cariddi
-chaos
-crt.sh
-dalfox
-dirlstr
-freq
-gau
-getJS
-gf
-github-subdomains
-gospider
-Gxss
-httpx
-interactsh-client
-jsleak
-katana
-kxss
-nomore403
-nuclei
-puredns
-qsreplace
-s3scanner
-shortscan
-shosubgo
-sns
-subfinder
-subjack
-subzy
-waybackurls
-wordlistgen
-naabu
-dnsx
+- 403jump  
+- alterx  
+- anew  
+- assetfinder  
+- bxss  
+- cariddi  
+- chaos  
+- crt.sh  
+- dalfox  
+- dirlstr  
+- freq  
+- gau  
+- getJS  
+- gf  
+- github-subdomains  
+- goblob  
+- gospider  
+- Gxss  
+- httpx  
+- interactsh-client  
+- jsleak  
+- katana  
+- kxss  
+- nomore403  
+- nuclei  
+- ossutil  
+- puredns  
+- qsreplace  
+- s3scanner  
+- shortscan  
+- shosubgo  
+- sns  
+- subfinder  
+- subjack  
+- subzy  
+- unfurl  
+- waybackurls  
+- wordlistgen  
+- naabu  
+- dnsx  
 
-Rust tool :
+---
 
-rustscan
-batcat
-navi
-tspin
-lla
-havn
+## 🦀 Rust Tools
+
+- rustscan  
+- batcat  
+- navi  
+- tspin  
+- lla  
+- havn  
